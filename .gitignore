@@ -1,6 +1,8 @@
 /RUNNING_PID
 /logs/
 /project/*-shim.sbt
-/project/project/
 /project/target/
+/project/project/target/
+/project/project/project/
 /target/
+/project/typesafe.properties
